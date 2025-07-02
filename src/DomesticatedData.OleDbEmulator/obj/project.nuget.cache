@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7K11viJF8A=",
+  "success": true,
+  "projectFilePath": "C:\\development\\domesticatedData\\OLEEmulator\\src\\DomesticatedData.OleDbEmulator\\DomesticatedData.OleDbEmulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mblair\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\mblair\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.6\\microsoft.extensions.logging.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\mblair\\.nuget\\packages\\system.data.common\\4.3.0\\system.data.common.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Data.Common will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\development\\domesticatedData\\OLEEmulator\\src\\DomesticatedData.OleDbEmulator\\DomesticatedData.OleDbEmulator.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\development\\domesticatedData\\OLEEmulator\\src\\DomesticatedData.OleDbEmulator\\DomesticatedData.OleDbEmulator.csproj",
+      "libraryId": "System.Data.Common",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
