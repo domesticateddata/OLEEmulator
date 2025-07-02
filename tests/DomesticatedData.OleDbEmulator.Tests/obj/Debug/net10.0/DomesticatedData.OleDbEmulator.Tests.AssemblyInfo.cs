@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomesticatedData.OleDbEmulator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a4a6578fe3429b7b3acb98c7112c931c62204df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c130926165edd514989fcd06ba4e0190d50d738b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomesticatedData.OleDbEmulator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomesticatedData.OleDbEmulator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
